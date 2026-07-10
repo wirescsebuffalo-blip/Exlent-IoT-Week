@@ -8,4 +8,4 @@ First Step: blink a LED
 - Click the **Upload (→)** button.
 (note: please do make sure no short-circuit and always connect a resistor after LED)
 
-![Blink Circuit](LED_Blink.png)
+![Blink Circuit](LED_Blink.jpg)
